@@ -1,6 +1,6 @@
 # 105-Cyfrowka
 
-![Bramki](Bramki.PNG)
+![Bramki](Bramki2.PNG)
 
 ### Links
 - https://botland.com.pl/blog/bramki-logiczne-jak-to-dziala/
