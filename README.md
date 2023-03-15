@@ -5,13 +5,13 @@
 Prawo podwójnej negacji
 ~(~p) ⇔ p
 
-Prawo logiczne przemienność alternatywy:
+Prawo logiczne przemienność alternatywy:\n
 p ∨ q ⇔ q ∨ p
 
-Prawo logiczne przemienność koniunkcji:
+Prawo logiczne przemienność koniunkcji:\n
 p ∧ q ⇔ q ∧ p
 
-Prawo logiczne łączności alternatywy:
+Prawo logiczne łączności alternatywy:\n
 (p ∨ q) ∨ r ⇔ p ∨ (q ∨ r)
 
 Prawo łączności koniunkcji:
