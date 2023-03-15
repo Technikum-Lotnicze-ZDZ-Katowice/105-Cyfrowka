@@ -2,46 +2,46 @@
 
 ![Bramki](Bramki2.PNG)
 
-Prawo podwójnej negacji
+Prawo podwójnej negacji:\
 ~(~p) ⇔ p
 
-Prawo logiczne przemienność alternatywy: /n
+Prawo logiczne przemienność alternatywy:\
 p ∨ q ⇔ q ∨ p
 
-Prawo logiczne przemienność koniunkcji: /n
+Prawo logiczne przemienność koniunkcji:\
 p ∧ q ⇔ q ∧ p
 
-Prawo logiczne łączności alternatywy: /n
+Prawo logiczne łączności alternatywy:\
 (p ∨ q) ∨ r ⇔ p ∨ (q ∨ r)
 
-Prawo łączności koniunkcji:
+Prawo łączności koniunkcji:\
 (p ∧ q) ∧ r ⇔ p ∧ (q ∧ r)
 
-Prawo rozdzielności alternatywy względem koniunkcji:
+Prawo rozdzielności alternatywy względem koniunkcji:\
 p ∨ (q ∧ r) ⇔ (p ∨ q) ∧ (p ∨ r)
 
-Prawo rozdzielności koniunkcji względem alternatywy:
+Prawo rozdzielności koniunkcji względem alternatywy:\
 p ∧ (q ∨ r) ⇔ (p ∧ q) ∨ (p ∧ r)
 
-Prawo przechodniości implikacji:
+Prawo przechodniości implikacji:\
 [(p ⇒ q) ∧ (q ⇒ r)] ⇒ (p ⇒ r)
 
-Prawo wyłączonego środka:
+Prawo wyłączonego środka:\
 p ∨ ~p – prawo to mówi, że zawsze prawdziwe jest albo zdanie logiczne, albo jego zaprzeczenie.
 
-Prawo zaprzeczenia implikacji:
+Prawo zaprzeczenia implikacji:\
 ~(p ⇒ q) ⇔ p ∧ ~q
 
-Prawo zastąpienia równoważności implikacją:
+Prawo zastąpienia równoważności implikacją:\
 (p ⇔ q) ⇔ [(p ⇒ q) ∧ (q ⇒ p)]
 
-Prawo kontrapozycji:
+Prawo kontrapozycji:\
 (p ⇒ q) ⇔ (~q ⇒ ~p)
 
-Prawo odrywania:
+Prawo odrywania:\
 [(p ⇒ q) ∧ p] ⇒ q
 
-Prawo eliminacji implikacji:
+Prawo eliminacji implikacji:\
 (p ⇒ q) ⇔(~p) ∨ q
 
 
