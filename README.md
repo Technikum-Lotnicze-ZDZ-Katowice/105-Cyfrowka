@@ -2,6 +2,12 @@
 
 ![Bramki](Bramki2.PNG)
 
+Pierwsze prawo De Morgana – zaprzeczenie alternatywy jest koniunkcja zaprzeczeń.\
+~(p ∨ q) ⇔ ~p ∧ ~q
+
+Drugie prawo De Morgana – zaprzeczenie koniunkcji jest alternatywa zaprzeczeń\
+~(p ∧ q) ⇔ ~p ∨ ~q
+
 Prawo podwójnej negacji:\
 ~(~p) ⇔ p
 
