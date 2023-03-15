@@ -50,7 +50,7 @@ Prawo odrywania:\
 Prawo eliminacji implikacji:\
 (p ⇒ q) ⇔(~p) ∨ q
 
-![Prawa](Prawa2.JPG)
+![Prawa](Prawa2.jpg)
 
 
 ### Links
