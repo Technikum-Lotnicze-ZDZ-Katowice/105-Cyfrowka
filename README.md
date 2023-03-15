@@ -50,6 +50,8 @@ Prawo odrywania:\
 Prawo eliminacji implikacji:\
 (p ⇒ q) ⇔(~p) ∨ q
 
+![Prawa](Prawa.PNG)
+
 
 ### Links
 - https://botland.com.pl/blog/bramki-logiczne-jak-to-dziala/
