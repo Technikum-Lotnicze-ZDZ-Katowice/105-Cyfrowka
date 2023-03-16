@@ -55,6 +55,7 @@ Prawo eliminacji implikacji:\
 
 ### Metoda Karnough
 
+![Siatka_00](Siatka_00.JPG)
 ![Siatka_01](Siatka_01.JPG)
 ![Siatka_02](Siatka_02.JPG)
 ![Siatka_03](Siatka_03.JPG)
