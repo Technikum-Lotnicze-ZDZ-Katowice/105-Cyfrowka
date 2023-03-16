@@ -59,5 +59,5 @@ Prawo eliminacji implikacji:\
 ### TUTS
 - https://youtu.be/kK_6p4C8Fpo
 - https://youtu.be/YNl9VEP-Fvg
-
+- https://www.youtube.com/watch?v=SuKdbfN28y8
 - https://www.youtube.com/watch?v=ACYixR0PXnE
