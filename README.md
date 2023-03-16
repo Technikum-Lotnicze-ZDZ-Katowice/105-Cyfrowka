@@ -53,6 +53,13 @@ Prawo eliminacji implikacji:\
 ![Prawa](Prawa2.jpg)
 
 
+### Metoda Karnough
+
+![Siatka_01](Siatka_01.JPG)
+![Siatka_02](Siatka_02.JPG)
+![Siatka_03](Siatka_03.JPG)
+![Siatka_04](Siatka_04.JPG)
+
 ### Links
 - https://botland.com.pl/blog/bramki-logiczne-jak-to-dziala/
 
